@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PrimeiroBackEndApplication<primeiro-back-end>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.projetobackend.primeirobackend.PrimeiroBackEndApplication",
+            "projectName": "primeiro-back-end",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
